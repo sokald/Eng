@@ -117,41 +117,49 @@ namespace ang
         private void button1_Click(object sender, EventArgs e)
         {
             check.checker1(button1, timer1, dict0);
+            CheckFinish();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             check.checker2(button2, timer1, dict0);
+            CheckFinish();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             check.checker1(button3, timer1, dict1);
+            CheckFinish();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
             check.checker2(button4, timer1, dict1);
+            CheckFinish();
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
             check.checker1(button5, timer1, dict2);
+            CheckFinish();
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
             check.checker2(button6, timer1, dict2);
+            CheckFinish();
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
             check.checker1(button7, timer1, dict3);
+            CheckFinish();
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
             check.checker2(button8, timer1, dict3);
+            CheckFinish();
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -166,6 +174,17 @@ namespace ang
             check.Btn2 = null;
 
             check.Pol = check.Eng = null;
+        }
+
+        private void CheckFinish()
+        {
+            if (button1.Enabled == false && button2.Enabled == false 
+                && button3.Enabled == false && button4.Enabled == false 
+                && button5.Enabled == false && button6.Enabled == false 
+                && button7.Enabled == false && button8.Enabled == false)
+            { 
+                MessageBox.Show("Brawo!! gra została zakończona pomyślnie");
+            }
         }
 
     }// public partial class Form1 : Form
