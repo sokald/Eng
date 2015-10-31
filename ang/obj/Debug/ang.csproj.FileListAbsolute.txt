@@ -1,0 +1,17 @@
+E:\C\ang\ang\obj\Debug\ang.Form1.resources
+E:\C\ang\ang\obj\Debug\ang.Properties.Resources.resources
+E:\C\ang\ang\obj\Debug\ang.csproj.GenerateResource.Cache
+E:\C\ang\ang\obj\Debug\ang.csprojResolveAssemblyReference.cache
+E:\C\ang\ang\bin\Debug\ang.exe
+E:\C\ang\ang\bin\Debug\ang.pdb
+E:\C\ang\ang\obj\Debug\ang.exe
+E:\C\ang\ang\obj\Debug\ang.pdb
+E:\C\ang\ang\bin\Debug\ang.exe.config
+C:\Users\sokald\Documents\Visual Studio 2012\Projects\ang\ang\bin\Debug\ang.exe.config
+C:\Users\sokald\Documents\Visual Studio 2012\Projects\ang\ang\bin\Debug\ang.exe
+C:\Users\sokald\Documents\Visual Studio 2012\Projects\ang\ang\bin\Debug\ang.pdb
+C:\Users\sokald\Documents\Visual Studio 2012\Projects\ang\ang\obj\Debug\ang.Form1.resources
+C:\Users\sokald\Documents\Visual Studio 2012\Projects\ang\ang\obj\Debug\ang.Properties.Resources.resources
+C:\Users\sokald\Documents\Visual Studio 2012\Projects\ang\ang\obj\Debug\ang.csproj.GenerateResource.Cache
+C:\Users\sokald\Documents\Visual Studio 2012\Projects\ang\ang\obj\Debug\ang.exe
+C:\Users\sokald\Documents\Visual Studio 2012\Projects\ang\ang\obj\Debug\ang.pdb
